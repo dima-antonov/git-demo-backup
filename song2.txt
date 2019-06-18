@@ -3,3 +3,5 @@ Hi! today 18 june 2019
 I'm continue learning git
 
 it's very interesting!
+
+and cool!
